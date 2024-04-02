@@ -29,4 +29,3 @@ This is a Java command-line application for managing invoices, clients, and serv
 ## Contributors
 
 - Redoblado
-- Yamut
